@@ -1,5 +1,3 @@
-# AF-ESPECIALIZACIÓN-ML
-
 ## 1. Introducción a Machine Learning e IA
 
 ### 1.1 Introducción a Machine Learning e Inteligencia Artificial
